@@ -20,7 +20,7 @@
 # Preview
  ![image](https://www.uplooder.net/img/image/44/b61138360e08b27471138b876d80d2dc/IMG-20221127-143058.jpg)
 
-# Run :
+# Run
 <b>Copy this code and paste in terminal</b>
 
 ```
