@@ -1,5 +1,5 @@
 # Tg_Member_Romover
-### Telegram Member Remover PHP
+### About 
 
 > MadelineProto
 
